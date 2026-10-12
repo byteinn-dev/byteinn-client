@@ -1,0 +1,11 @@
+name: 功能建议
+description: 希望客户端加点什么、改点什么
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: want
+    attributes:
+      label: 想要什么
+      description: 你想做成什么事、现在卡在哪里。
+    validations:
+      required: true

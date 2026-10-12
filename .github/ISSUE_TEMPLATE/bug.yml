@@ -1,0 +1,26 @@
+name: 问题反馈
+description: 客户端用着出了问题
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 客户端版本
+      description: 设置 → 通用 → 应用更新 里能看到
+      placeholder: 例如 0.8.0
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: 系统
+      options: ["Windows", "macOS", "Linux"]
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: 发生了什么
+      description: 你做了什么、看到了什么、原本期望是什么。有截图更好。
+    validations:
+      required: true
