@@ -6,11 +6,11 @@
 
 别人的中转给你一个地址，ByteInn 给你一台工作站。
 
-[![最新版本](https://img.shields.io/github/v/release/konijiwa110/byteinn-releases?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/konijiwa110/byteinn-releases/releases/latest)
+[![最新版本](https://img.shields.io/github/v/release/byteinn-dev/byteinn-client?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/byteinn-dev/byteinn-client/releases/latest)
 ![平台](https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Windows%20%7C%20macOS%20%7C%20Linux-blue)
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-byteinn.net-orange)](https://byteinn.net)
 
-[**下载安装包**](https://github.com/konijiwa110/byteinn-releases/releases/latest) · [**官网 byteinn.net**](https://byteinn.net) · [反馈问题](https://github.com/konijiwa110/byteinn-releases/issues/new/choose)
+[**下载安装包**](https://github.com/byteinn-dev/byteinn-client/releases/latest) · [**官网 byteinn.net**](https://byteinn.net) · [反馈问题](https://github.com/byteinn-dev/byteinn-client/issues/new/choose)
 
 ![ByteInn 客户端首页](images/home-simple.png)
 
@@ -117,7 +117,7 @@ AI 要执行命令时会先停下来等你点头，批准还是拒绝由你决�
 
 ## 下载安装
 
-到 [Releases 页面](https://github.com/konijiwa110/byteinn-releases/releases/latest) 下载对应系统的安装包：
+到 [Releases 页面](https://github.com/byteinn-dev/byteinn-client/releases/latest) 下载对应系统的安装包：
 
 | 系统 | 文件 | 说明 |
 |---|---|---|
@@ -138,7 +138,7 @@ AI 要执行命令时会先停下来等你点头，批准还是拒绝由你决�
 密钥只保存在你自己的电脑上。设置里的「帮助改进产品」只发送功能使用情况，不包含任何对话内容和文件，关闭后本机还没发送的记录会立即删除。
 
 **遇到问题怎么反馈？**
-在本仓库 [提交 Issue](https://github.com/konijiwa110/byteinn-releases/issues/new/choose)，分为「问题反馈」和「功能建议」两类。
+在本仓库 [提交 Issue](https://github.com/byteinn-dev/byteinn-client/issues/new/choose)，分为「问题反馈」和「功能建议」两类。
 
 ---
 
@@ -146,6 +146,6 @@ AI 要执行命令时会先停下来等你点头，批准还是拒绝由你决�
 
 ### 现在就去 [byteinn.net](https://byteinn.net) 注册，几分钟用上 Claude Code 和 Codex
 
-[**前往官网**](https://byteinn.net) · [**下载客户端**](https://github.com/konijiwa110/byteinn-releases/releases/latest)
+[**前往官网**](https://byteinn.net) · [**下载客户端**](https://github.com/byteinn-dev/byteinn-client/releases/latest)
 
 </div>
