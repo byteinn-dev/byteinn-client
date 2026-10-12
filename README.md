@@ -7,7 +7,7 @@
 别人的中转给你一个地址，ByteInn 给你一台工作站。
 
 [![最新版本](https://img.shields.io/github/v/release/byteinn-dev/byteinn-client?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)](https://github.com/byteinn-dev/byteinn-client/releases/latest)
-![平台](https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Windows%20%7C%20macOS%20%7C%20Linux-blue)
+![平台](https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-Windows%20%7C%20macOS-blue)
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-byteinn.net-orange)](https://byteinn.net)
 
 [**下载安装包**](https://github.com/byteinn-dev/byteinn-client/releases/latest) · [**官网 byteinn.net**](https://byteinn.net) · [反馈问题](https://github.com/byteinn-dev/byteinn-client/issues/new/choose)
@@ -123,9 +123,10 @@ AI 要执行命令时会先停下来等你点头，批准还是拒绝由你决�
 |---|---|---|
 | Windows 10 / 11（64 位） | `ByteInn_Client_版本号_x64-setup.exe` | 双击安装 |
 | macOS（Intel 与 Apple 芯片通用） | `ByteInn_Client_版本号_universal.dmg` | 打开后把应用拖进「应用程序」 |
-| Linux（x86_64） | `.AppImage` / `.deb` / `.rpm` | 任选其一；AppImage 需先加可执行权限 |
 
 **Windows 提示「Windows 已保护你的电脑」？** 点「更多信息」→「仍要运行」即可。
+
+**Linux 用户**：同一页面也提供 `.AppImage` / `.deb` / `.rpm`（x86_64），属于尝鲜版，还没经过完整测试，遇到问题欢迎 [提交 Issue](https://github.com/byteinn-dev/byteinn-client/issues/new/choose)。
 
 安装后客户端会自动检查更新，以后不用再回来手动下载。
 
